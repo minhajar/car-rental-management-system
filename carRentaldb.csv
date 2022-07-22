@@ -1,0 +1,61 @@
+"adminID","adminName","adminContactNo","adminMail"
+"1","mingrace","+212 627569341","gracewho@hotmail.com"
+"bookingID","carID","clientID","dateVehicleAquisition","dateVehicleReturn","driverOption","advanceDeposit","amount","droppingPoint"
+"23","5","1","2022-07-21 00:00:00","2022-07-30 00:00:00","self drive","67","200",NULL
+"24","1","1","2022-07-06 00:00:00","2022-07-12 00:00:00","with driver","65","640",NULL
+"32","1","1","2022-07-01 17:45:00","2022-07-22 17:45:00","with driver","987","640",NULL
+"33","1","1","2022-07-06 17:49:00","2022-07-27 17:49:00","self drive","43","640",NULL
+"34","1","1","2022-07-06 17:52:00","2022-07-28 17:52:00",,"43","640",NULL
+"36","1","1","2022-07-20 18:02:00","2022-07-23 18:02:00","self drive","21","640",NULL
+"38","1","1","2022-07-12 18:10:00","2022-07-22 18:10:00",,"987","640",NULL
+"39","1","1","2022-07-15 16:38:00","2022-07-28 16:38:00","self drive","789","640",NULL
+"43","1","1","2022-07-01 17:33:00","2022-07-23 17:33:00","with driver","3456","640",NULL
+"47","234","456","2022-07-13 22:28:23","2022-07-13 22:28:23","self drive",NULL,"45",NULL
+"48","1","1","2022-07-14 23:18:00","2022-07-22 23:18:00","with driver",NULL,"640",NULL
+"50","1","1","2022-07-07 11:15:00","2022-07-22 11:15:00","with driver","32","640","marrakech"
+"72","1","1","2022-07-01 11:28:00","2022-07-22 11:28:00","with driver","0","640","marrakech"
+"73","1","1","2022-07-02 13:11:00","2022-07-21 13:11:00","with driver","89","640","marrakech"
+"78","1","1","2022-07-08 13:42:00","2022-07-30 13:42:00","self drive","45","640","marrakech"
+"86","1","2","2022-07-03 18:46:00","2022-07-28 18:46:00","with driver","78","640","casablanca "
+"87","1","2","2022-07-03 18:46:00","2022-07-28 18:46:00","with driver","78","640","casablanca "
+"88","1","2","2022-07-03 18:46:00","2022-07-28 18:46:00","with driver","78","640","casablanca "
+"89","1","2","2022-07-19 18:51:00","2022-07-22 18:51:00","with driver","67","640","marrakech"
+"90","1","2","2022-07-19 18:51:00","2022-07-22 18:51:00","with driver","67","640","casablanca"
+"91","1","2","2022-07-17 18:53:00","2022-07-28 18:53:00","with driver","567","640","marrakech"
+"92","1","2","2022-07-22 13:05:00","2022-07-30 13:05:00","self drive","234","987","marrakech "
+"93","1","2","2022-07-17 18:53:00","2022-07-28 18:53:00","with driver","567","640","marrakech"
+"94","1","2","2022-07-17 18:53:00","2022-07-28 18:53:00","with driver","567","640","marrakech"
+"95","1","2","2022-07-21 18:55:00","2022-07-29 18:55:00","with driver","789","640","rabat"
+"96","1","2","2022-07-21 18:55:00","2022-07-29 18:55:00","with driver","789","640","rabat"
+"97","1","2","2022-07-21 18:55:00","2022-07-29 18:55:00","with driver","789","640","rabat"
+"98","9","1","2022-07-08 05:24:00","2022-07-16 05:24:00","with driver","456","567","marrakech "
+"99","9","1","2022-07-19 11:30:00","2022-07-30 11:30:00","with driver","1089","1000","rabat"
+"100","9","1","2022-07-19 11:30:00","2022-07-30 11:30:00","with driver","1089","1000","rabat"
+"101","1","1","2022-07-14 00:19:00","2022-07-28 00:22:00","with driver","450","640","casa"
+"103","1","1","2022-07-14 00:19:00","2022-07-28 00:22:00","with driver","450","640","casa"
+"104","1","1","2022-07-14 00:19:00","2022-07-28 00:22:00","with driver","450","640","casa"
+"105","1","1","2022-07-14 00:19:00","2022-07-28 00:22:00","with driver","450","640","casa"
+"106","1","1","2022-07-09 05:21:00","2022-07-21 05:21:00","with driver","87","45","casa "
+"107","1","1","2022-07-14 00:19:00","2022-07-28 00:22:00","with driver","450","640","casa"
+"113","1","4","2022-07-14 12:19:00","2022-07-23 12:19:00","self drive","560","640",
+"115","2","4","2022-07-08 12:28:00","2022-07-30 12:28:00","self drive","560","400",
+"driverID","driverName","driverContactNo","drivingLicence","driverResidence","Davailability"
+"1","Amine ","+212 675364592","52/986543","marrakech/morocco","available"
+"2","Ali","+212 653598871","78/532689","casablanca/morocco","available"
+"3","Charles","+212 787654678","56/348754","marrakech/morocco","notAvailable"
+"4","Yassine","+212 674532441","98/354246","marrakech/morocco","available"
+"userID","actualName","userName","passwd","userContactNo","userMail","userResidence","birthDate","occupation","status"
+"1","grace","mingrace","342943d909ac37d51bf03ebc3be50034",,,"Morocco","2002-09-25","student","inactive"
+"2","hajar","hajar","5d41402abc4b2a76b9719d911017c592",NULL,NULL,NULL,NULL,NULL,NULL
+"3","rim","cutie","5d41402abc4b2a76b9719d911017c592",NULL,NULL,NULL,NULL,NULL,NULL
+"4","salaheddine","Adude","bfa99df33b137bc8fb5f5407d7e58da8",NULL,NULL,NULL,NULL,NULL,NULL
+"vehicleID","registration","modelNo","modelName","accessibility","display_picture","pricePerDay"
+"1","CIgEpeZNSBhbdcgltsOmK","2016","ALFA ROMEO Giulietta ","available","62b91a4c47cae.jpeg","640"
+"2","et0AxICCnIlhn0ctZJaL6","2021","AUDI R8","available","62b91ade00140.jpeg","400"
+"3","xpQicl35MW6JO7Clj498h","2020","AUDI Q2","available","62b91b24d73f1.jpeg","400"
+"4","dhT0MvSSzycWs4STcqGhQ","2022","BMW 3 Series Sedan","available","62b91f2cb62f7.jpeg","350"
+"5","TWvvULwiqrBwog6fYszmd","2021","FORD Focus Wagon","notAvailable","62b9211dc5c76.jpeg","200"
+"7","Da1Jts5nqqdd1hllKsu7V","2021","JEEP Compass","available","62b9221b68576.jpeg","500"
+"8","GLUZ3uiMmHnkGd7Ybf1hJ","2021","KIA Sportage","available","62b9226bc6e63.jpeg","450"
+"9","YDzEtlNINQTWZ3ytAWJo1","2021","LINCOLN Zephyr","available","62b922b1e5967.jpeg","1000"
+"10","gGCF4OTl1bMQMYO5OAUcc","2021","AURUS Senat Limousine","available","62b922fc0d5fd.jpeg","2000"
